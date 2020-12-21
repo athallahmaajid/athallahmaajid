@@ -1,5 +1,13 @@
 ### Hi there 👋
+My name is Athallah Muhammad Maajid
 
+I live in Jl.Gaperta Gg.Perdana Medan, Indonesia
+
+You can send me email, and my email is athallahmaajid@gmail.com
+
+I'm currently learning Python Data Science
+# Fun Fact
+I am Junior High School/SMP Student
 <!--
 **athallahmaajid/athallahmaajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
