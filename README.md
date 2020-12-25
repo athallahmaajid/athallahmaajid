@@ -7,7 +7,7 @@ You can send me email, and my email is athallahmaajid@gmail.com
 
 I'm currently learning Python Data Science
 # Fun Fact
-I am Junior High School/SMP Student
+I born on 16 August, 2020
 <!--
 **athallahmaajid/athallahmaajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
