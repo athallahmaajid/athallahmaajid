@@ -7,3 +7,5 @@ My name is Athallah Muhammad Maajid
 - 📫 How to reach me: https://t.me/stopitget
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love jokes  
+
+![gitStat](https://github-readme-stats.vercel.app/api?username=athallahmaajid&show_icons=true&theme=dracula)
