@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=abinoval)
+
 # Hi there 👋
 My name is Athallah Muhammad Maajid
 and i'm just an ordinary student at elementary school
