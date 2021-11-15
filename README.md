@@ -12,5 +12,7 @@ and i'm just an ordinary student at elementary school
 - ⚡ Fun fact: I love jokes  
 
 ![](https://github-readme-stats.vercel.app/api?username=athallahmaajid&show_icons=true&theme=dracula)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=athallahmaajid&show_icons=true&theme=dracula)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=athallahmaajid&show_icons=true&theme=dracula)
