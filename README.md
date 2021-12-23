@@ -4,7 +4,6 @@
 My name is Athallah Muhammad Maajid
 and i'm just an ordinary student at elementary school
 
-- 🔭 I’m currently looking job
 - 🌱 I’m currently learning PHP & Flutter & Python
 - 💬 Ask me about Python
 - 📫 How to reach me: https://t.me/stopitget
