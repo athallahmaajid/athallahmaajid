@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=abinoval)
+![](https://komarev.com/ghpvc/?username=athallahmaajid)
 
 # Hi there 👋
 My name is Athallah Muhammad Maajid
