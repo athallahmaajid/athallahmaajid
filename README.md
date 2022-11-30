@@ -2,7 +2,7 @@
 
 # Hi there 👋
 My name is Athallah Muhammad Maajid
-and i'm just an ordinary student at junior high school
+and i'm just an ordinary student at high school
 
 - 🌱 I’m currently learning PHP & Flutter & Python
 - 💬 Ask me about Python
