@@ -1,14 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=athallahmaajid)
 
 # Hi there 👋
-My name is Athallah Muhammad Maajid
-and i'm just an ordinary student at high school
+My name is Athallah Muhammad Maajid, a student at Universitas Sumatera Utara
 
 - 🌱 I’m currently learning PHP & Flutter & Python
 - 💬 Ask me about Python
-- 📫 How to reach me: https://t.me/stopitget
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love jokes  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=athallahmaajid&show_icons=true&theme=dracula">
